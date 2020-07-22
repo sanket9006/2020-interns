@@ -1,0 +1,15 @@
+library("rjson")
+data <- fromJSON(file="new_data.json")
+new_dataa = as.data.frame(data)
+
+##class(new_data)
+##names(new_data)
+print(new_dataa[1][1])
+
+
+##for(i in length(new_data))
+##{
+##print(new_data[i])
+##}
+
+
