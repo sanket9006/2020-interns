@@ -1,4 +1,4 @@
-### Aw we were not allowded to use any third part libraries that's why I switched to R language insteed of python as R language has inbuilt function plot() which doesn't require any third party library
+### As we were not allowded to use any third part libraries that's why I switched to R language insteed of python as R language has inbuilt function plot() which doesn't require any third party library
 
 
 ### ROUND 1: ASSIGNMENT (SUBMISSON IN GIT HUB)
