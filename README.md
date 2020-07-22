@@ -1,3 +1,6 @@
+### Aw we were not allowded to use any third part libraries that's why I switched to R language insteed of python as R language has inbuilt function plot() which doesn't require any third party library
+
+
 ### ROUND 1: ASSIGNMENT (SUBMISSON IN GIT HUB)
 
 `Deadline of submission of assignment = Wednesday, 22nd July 2020 @ 12 Noon`
